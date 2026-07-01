@@ -1,0 +1,25 @@
+# ─────────────────────────────────────────
+# MachinistSheet – Configuration File
+# ─────────────────────────────────────────
+# This file tells MachinistSheet which folders to read.
+# Add as many projects or vaults as you want.
+# Just copy one of the blocks below and change the name and path.
+
+# ── YOUR CODE PROJECTS ───────────────────
+# These are the folders where you write code.
+
+
+[[projects]]
+name = "Machinist Tool"
+path = "/Users/povther/Desktop/MACHINIST TOOL"
+
+[[projects]]
+name = "MachinistSheet"
+path = "/Users/povther/Desktop/devsheet"
+
+# ── YOUR KNOWLEDGE VAULTS ────────────────
+# These are your Obsidian vaults or any notes folders.
+
+[[vaults]]
+name = "Second Brain"
+path = "/Users/povther/Desktop/obsidian vault"
